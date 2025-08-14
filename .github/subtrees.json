@@ -23,10 +23,5 @@
     "prefix": "src",
     "url": "git@${CI_SERVER_HOST}:${GROUP}-subtrees/phreeqc3-src.git",
     "repo": "usgs-coupled-subtrees/phreeqc3-src"
-  },
-  {
-    "prefix": "src/common",
-    "url": "git@${CI_SERVER_HOST}:${GROUP}-subtrees/phreeqc3-src-common.git",
-    "repo": "usgs-coupled-subtrees/phreeqc3-src-common"
   }
 ]
